@@ -15,4 +15,4 @@ Dashboard gives the admion access to control the polls content and prevent app u
 4. Prevent Poll spam 
 5. Remove irrelevant polls
 
-Rest Api's are created in CodeIgniter and UI is created with HTML, CSS and JS. 
+Rest Api's are created in CodeIgniter with Firebase and UI is created with HTML, CSS and JS. 
